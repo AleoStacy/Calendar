@@ -1,2 +1,2 @@
-# Strengths-and-Weaknesses-cousera
-Examples of Strengths and Weaknesses for Job Interviews
+# Calendar
+a simple calender in HTML, CSS and Javascript.
